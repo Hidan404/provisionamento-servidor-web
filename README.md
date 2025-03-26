@@ -10,7 +10,7 @@ Este repositório contém um script Bash para configuração rápida de um ambie
 - **Atualização automática do sistema:** Mantenha seu servidor seguro e atualizado.
 - **Instalação simplificada:** Apache2, Unzip e Git configurados em segundos.
 - **Deploy contínuo:** Baixa e implanta automaticamente uma aplicação web de exemplo.
-- **Integração com GitHub:** Envia o próprio script para seu repositório remotamente.
+
 
 ---
 
