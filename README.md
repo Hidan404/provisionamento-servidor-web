@@ -24,4 +24,4 @@ Este repositório contém um script Bash para configuração rápida de um ambie
 ### Passo a Passo
 1. **Clone este repositório:**
    ```bash
-   git clone
+   git clone  https://github.com/Hidan404/provisionamento-servidor-web.git
